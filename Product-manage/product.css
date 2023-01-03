@@ -1,0 +1,16 @@
+img {
+    width: auto;
+    height: 200px;
+    border-radius: 8%;
+}
+.col {
+    text-align: center  ;
+}
+.hieuhoa {
+    display: flex;
+    /*max-width: 600px;*/
+    /*margin-top: 100px;*/
+    /*background-color: #7ae7cf;*/
+    /*border-radius: 10px;    !* độ cong của các góc *!*/
+    /*padding: 10px 20px      !* khoảng cách từ nội dung đến border *!*/
+}
